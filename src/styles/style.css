@@ -5,9 +5,12 @@
 }
 
 .center-image {
-  /* não encontrei na doc do bootstrap */
   background-size: cover;
   background-position: center;
+}
+
+.gallery-img {
+  height: 250px;
 }
 
 #logo {
@@ -30,4 +33,24 @@
 #hero-info {
   left: 25px;
   bottom: 25px;
+}
+
+#img2{
+  background-image: url(../images/g_2.jpg);
+}
+
+#img3{
+  background-image: url(../images/g_3.jpg);
+}
+
+#img4{
+  background-image: url(../images/g_4.jpg);
+}
+
+#img5{
+  background-image: url(../images/g_5.jpg);
+}
+
+#img6{
+  background-image: url(../images/g_6.jpg);
 }
