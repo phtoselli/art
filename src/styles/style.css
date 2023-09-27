@@ -54,3 +54,11 @@
 #img6{
   background-image: url(../images/g_6.jpg);
 }
+
+.footer-icon{
+  color: var(--color-primary);
+}
+
+.footer-icon:hover{
+  color: var(--color-secondary);
+}
