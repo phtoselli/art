@@ -1,1 +1,21 @@
-/* CSS */
+:root {
+  --color-primary: #444444;
+  --color-secondary: #666666;
+  --color-white: #ffffff;
+}
+
+#logo {
+  height: 60px;
+}
+
+#header p {
+  color: var(--color-secondary);
+}
+
+#header-nav a{
+  color: var(--color-primary);
+}
+
+#header-nav a:hover{
+  color: var(--color-secondary);
+}
